@@ -27,7 +27,7 @@ const main = () => {
           ?
           <>
                  <div className="greet">
-            <p><span>Hello, Dev.</span></p>
+            <p><span>Hello, Buddy.</span></p>
             <p>How can i help you today ?</p>
           </div>
           <div className="cards">
@@ -36,15 +36,15 @@ const main = () => {
               <img src={assets.compass_icon} alt="cmps" />
             </div>
             <div className="card">
-              <p>Help explain in a kid-friendly way: why do rainbows appear?</p>
+              <p>Help me understand American football</p>
               <img src={assets.bulb_icon} alt="cmps" />
             </div>
             <div className="card">
-              <p>Help explain in a kid-friendly way: why do rainbows appear?</p>
+              <p>Evaluate and rank common camera categories</p>
               <img src={assets.message_icon} alt="cmps" />
             </div>
             <div className="card">
-              <p>Help explain in a kid-friendly way: why do rainbows appear?</p>
+              <p>Outline a way to home routine: organizing my closet</p>
               <img src={assets.code_icon} alt="cmps" />
             </div>
           </div>
@@ -82,7 +82,7 @@ const main = () => {
             </div>
           </div>
           <p className="bottom-info">
-          Gemini may display inaccurate info, including about people, so double-check its responses. Your privacy and Gemini Apps
+          Gemini may display inaccurate info, including about people, so double-check its responses. Made with &#128158; by <a style={{textDecoration:"none"}} href="http://shamimimran.netlify.app/">Shamim Imran</a>
           </p>
         </div>
 
